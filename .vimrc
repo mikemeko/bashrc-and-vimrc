@@ -34,3 +34,5 @@ set showmode
 set shiftwidth=2
 set tabstop=2
 
+" spell check
+"set spell
